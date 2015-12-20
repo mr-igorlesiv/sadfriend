@@ -1,0 +1,17 @@
+body {
+	font-family: arial;
+}
+
+.allFriendBox {
+	width: 400px;
+	height: auto;
+	border: 1px dashed lightgray;
+	margin: 25px;
+}
+
+.writeTodayWrap {
+	width: 400px;
+	height: 400px;
+	border: 1px dashed green;
+	margin: 25px;
+}
